@@ -1,0 +1,16 @@
+{
+	"name": "u32vb",
+	"description": "Vector<Boolean> using Uint32s",
+	"version": "0.1.0",
+	"main": "lib/u32vb.js",
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"@types/node": ">=14"
+	},
+	"keywords": [],
+	"directories": {
+		"lib": "lib",
+		"test": "tests"
+	}
+}
